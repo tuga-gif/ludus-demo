@@ -1,0 +1,17 @@
+node_modules/
+.local/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+dist/
+build/
+*.exe
+*.dll
+*.db
+*.sqlite*
+*.pem
+*.key
+*.pfx
+*.p12

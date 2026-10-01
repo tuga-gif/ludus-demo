@@ -1,0 +1,170 @@
+[
+  {
+    "id": "moonlight-meadow",
+    "name": "Moonlight Meadow",
+    "genre": "Adventure",
+    "description": "Explore a quiet valley under the stars.",
+    "colour": "purple",
+    "year": 2024,
+    "tags": [
+      "Adventure",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 4096
+  },
+  {
+    "id": "orbital-courier",
+    "name": "Orbital Courier",
+    "genre": "Arcade",
+    "description": "Deliver parcels between distant space stations.",
+    "colour": "blue",
+    "year": 2025,
+    "tags": [
+      "Arcade",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 4608
+  },
+  {
+    "id": "pixel-trail",
+    "name": "Pixel Trail",
+    "genre": "Puzzle",
+    "description": "Find a path through a colourful world of puzzles.",
+    "colour": "green",
+    "year": 2026,
+    "tags": [
+      "Puzzle",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 5120
+  },
+  {
+    "id": "ember-harbour",
+    "name": "Ember Harbour",
+    "genre": "Adventure",
+    "description": "Explore a coastal town and uncover its forgotten stories.",
+    "colour": "orange",
+    "year": 2024,
+    "tags": [
+      "Adventure",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 5632
+  },
+  {
+    "id": "neon-rally",
+    "name": "Neon Rally",
+    "genre": "Racing",
+    "description": "Race through bright city streets after sunset.",
+    "colour": "pink",
+    "year": 2025,
+    "tags": [
+      "Racing",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 6144
+  },
+  {
+    "id": "tiny-workshop",
+    "name": "Tiny Workshop",
+    "genre": "Simulation",
+    "description": "Build a small workshop, one useful invention at a time.",
+    "colour": "green",
+    "year": 2026,
+    "tags": [
+      "Simulation",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 6656
+  },
+  {
+    "id": "winter-signal",
+    "name": "Winter Signal",
+    "genre": "Puzzle",
+    "description": "Follow mysterious signals across a snowy landscape.",
+    "colour": "blue",
+    "year": 2024,
+    "tags": [
+      "Puzzle",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 7168
+  },
+  {
+    "id": "starbound-garden",
+    "name": "Starbound Garden",
+    "genre": "Simulation",
+    "description": "Grow a garden aboard your own little space station.",
+    "colour": "purple",
+    "year": 2025,
+    "tags": [
+      "Simulation",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 7680
+  },
+  {
+    "id": "clockwork-cove",
+    "name": "Clockwork Cove",
+    "genre": "Adventure",
+    "description": "Solve mechanical puzzles on an island of inventors.",
+    "colour": "orange",
+    "year": 2026,
+    "tags": [
+      "Adventure",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 8192
+  },
+  {
+    "id": "paper-knights",
+    "name": "Paper Knights",
+    "genre": "Strategy",
+    "description": "Guide a band of paper heroes through turn-based battles.",
+    "colour": "pink",
+    "year": 2024,
+    "tags": [
+      "Strategy",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 8704
+  },
+  {
+    "id": "driftwood-islands",
+    "name": "Driftwood Islands",
+    "genre": "Adventure",
+    "description": "Sail between islands and make a home by the sea.",
+    "colour": "green",
+    "year": 2025,
+    "tags": [
+      "Adventure",
+      "Single player"
+    ],
+    "collection": "Relaxed afternoons",
+    "size": 9216
+  },
+  {
+    "id": "vector-arena",
+    "name": "Vector Arena",
+    "genre": "Arcade",
+    "description": "Keep moving through a fast-paced arena of light.",
+    "colour": "blue",
+    "year": 2026,
+    "tags": [
+      "Arcade",
+      "Single player"
+    ],
+    "collection": "Quick sessions",
+    "size": 9728
+  }
+]

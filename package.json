@@ -1,0 +1,24 @@
+{
+  "name": "ludus-demo",
+  "version": "1.7.0-demo.1",
+  "private": true,
+  "description": "A standalone open-source demo of Ludus with local catalogue, library, profiles and themes",
+  "license": "MIT",
+  "author": "Ludus",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "python -m unittest discover -s tests && node --test tests/state.test.cjs"
+  },
+  "devDependencies": {
+    "electron": "44.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuga-gif/ludus-demo.git"
+  },
+  "homepage": "https://lludus.netlify.app",
+  "bugs": {
+    "url": "https://github.com/tuga-gif/ludus-demo/issues"
+  }
+}
