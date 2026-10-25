@@ -1,0 +1,11 @@
+{
+  "id": "download-finished-alert",
+  "name": "Download Finished Alert",
+  "description": "Shows a notification when a download finishes, even on another page.",
+  "version": "1.0.0",
+  "category": "downloads",
+  "defaultEnabled": true,
+  "settings": {
+    "sound": { "type": "boolean", "default": true, "label": "Play a sound" }
+  }
+}

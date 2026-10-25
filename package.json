@@ -1,6 +1,6 @@
 {
   "name": "ludus-demo",
-  "version": "1.7.0-demo.1",
+  "version": "1.8.0-demo.1",
   "private": true,
   "description": "A standalone open-source demo of Ludus with local catalogue, library, profiles and themes",
   "license": "MIT",

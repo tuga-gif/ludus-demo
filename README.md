@@ -2,9 +2,13 @@
 
 Ludus is a launcher for browsing games, organising downloads, personalising the interface and keeping supported saves together. The official app is available for Windows and Linux.
 
+**Ludus 1.8 is out — and Ludus turns one.** The first beta came out on 25 October 2025. Version 1.8 adds a community inside the launcher, Ludus Points and a profile store, a redesigned theme creator, installable extensions and faster downloads. [Download it from the website](https://lludus.netlify.app) or the [Releases](https://github.com/tuga-gif/ludus-demo/releases) page.
+
 This repository contains a separate, standalone **open-source demo**, licensed under MIT. It lets you explore local interface features and contribute without accessing the official app's private code or services. It is not the source code of the full launcher.
 
-[Official website](https://lludus.netlify.app) · [Discord community](https://discord.gg/6FhmcXvwA2)
+[Official website](https://lludus.netlify.app) · [Official Discord](https://discord.gg/XRqMF8xcPA) · [Ludus Archive](https://discord.gg/aST3SbVsXF)
+
+Ludus Archive is not the official community server; it shares official Ludus files for developers. For help, use the official Discord.
 
 All interface text is in English. The sample games are fictional.
 
@@ -22,7 +26,12 @@ All interface text is in English. The sample games are fictional.
 
 The full Ludus catalogue comes from a separate Ludus API. That service is not distributed with this demonstration. This project includes no production service integration, user accounts or cloud saves. It cannot sign in to the full app or access its data.
 
-Only aria2 is included as a download integration. Other motors in the full app: libtorrent and Ryuu.
+Only aria2 is included as a download integration. Other download engines in the full app: libtorrent, Turbo and Ready to play.
+
+## Code examples and how Ludus works
+
+- [`examples/`](examples) has small, runnable examples of ideas used in Ludus 1.8: theme colours, Ludus Points, title matching, choosing a download engine, save backup retention and extensions. They are simplified illustrations, not the launcher's code.
+- [How Ludus works](docs/HOW_IT_WORKS.md) is a high-level tour of the app's systems.
 
 ## Run in a browser
 
@@ -58,12 +67,13 @@ python -m unittest discover -s tests
 node --test tests/state.test.cjs
 ```
 
-The tests check that sample downloads accept only predefined demo IDs, that requests from other origins are refused, and that private files are not served.
+The tests also run the code examples. They check that sample downloads accept only predefined demo IDs, that requests from other origins are refused, and that private files are not served.
 
 Code is licensed under MIT. The Ludus name and logo remain Ludus branding; the code license does not grant trademark rights. aria2 and Electron are separate projects under their respective licenses. No engine binary is included.
 
 ## Project notes
 
+- [How Ludus works](docs/HOW_IT_WORKS.md) gives a tour of the app's systems.
 - [Public scope](docs/PUBLIC_SCOPE.md) explains what is included.
 - [Development guide](docs/DEVELOPMENT.md) covers the public project layout.
 - [Contributing](CONTRIBUTING.md) describes useful contributions.

@@ -9,6 +9,7 @@
 - `web/style.css`: interface styles and responsive layouts.
 - `main.js`: optional Electron window.
 - `tests/test_demo.py`: local request boundary checks.
+- `examples/`: standalone code examples; `tests/test_examples.py` runs them.
 
 ## Add a sample game
 

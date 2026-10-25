@@ -10,4 +10,6 @@ Library, profile and appearance data are local browser preferences. JSON export 
 
 No credentials, databases, production service integrations or original Git history are included. There is no production SDK, undocumented service connector or private launcher module. Public development should use fictional fixtures and local behaviour.
 
-Other motors in the full app: libtorrent and Ryuu.
+The `examples/` folder contains short, simplified illustrations of ideas used in the full app. They use invented data, contact no service and are not the launcher's implementation.
+
+Other download engines in the full app: libtorrent, Turbo and Ready to play.
