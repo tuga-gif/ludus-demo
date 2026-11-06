@@ -6,7 +6,7 @@ Ludus is a launcher for browsing games, organising downloads, personalising the 
 
 This repository contains a separate, standalone **open-source demo**, licensed under MIT. It lets you explore local interface features and contribute without accessing the official app's private code or services. It is not the source code of the full launcher.
 
-[Official website](https://lludus.netlify.app) · [Official Discord](https://discord.gg/XRqMF8xcPA) · [Ludus Archive](https://discord.gg/aST3SbVsXF)
+[Official website](https://ludus1.netlify.app) · [Official Discord](https://discord.gg/XRqMF8xcPA) · [Ludus Archive](https://discord.gg/aST3SbVsXF)
 
 Ludus Archive is not the official community server; it shares official Ludus files for developers. For help, use the official Discord.
 
