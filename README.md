@@ -2,11 +2,11 @@
 
 Ludus is a launcher for browsing games, organising downloads, personalising the interface and keeping supported saves together. The official app is available for Windows and Linux.
 
-**Ludus 1.8 is out — and Ludus turns one.** The first beta came out on 25 October 2025. Version 1.8 adds a community inside the launcher, Ludus Points and a profile store, a redesigned theme creator, installable extensions and faster downloads. [Download it from the website](https://lludus.netlify.app) or the [Releases](https://github.com/tuga-gif/ludus-demo/releases) page.
+**Ludus 1.8 is out — and Ludus turns one.** The first beta came out on 25 October 2025. Version 1.8 adds a community inside the launcher, Ludus Points and a profile store, a redesigned theme creator, installable extensions and faster downloads. [Download it from the website](https://luduslauncher.store/) or the [Releases](https://github.com/tuga-gif/ludus-demo/releases) page.
 
 This repository contains a separate, standalone **open-source demo**, licensed under MIT. It lets you explore local interface features and contribute without accessing the official app's private code or services. It is not the source code of the full launcher.
 
-[Official website](https://ludus1.netlify.app) · [Official Discord](https://discord.gg/XRqMF8xcPA) · [Ludus Archive](https://discord.gg/aST3SbVsXF)
+[Official website](https://luduslauncher.store/) · [Official Discord](https://discord.gg/XRqMF8xcPA) · [Ludus Archive](https://discord.gg/aST3SbVsXF)
 
 Ludus Archive is not the official community server; it shares official Ludus files for developers. For help, use the official Discord.
 
